@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/factfusion/static/css/main.dc4d6ff2.css",
+    "main.js": "/factfusion/static/js/main.08c63846.js",
+    "static/js/453.b15fc67e.chunk.js": "/factfusion/static/js/453.b15fc67e.chunk.js",
+    "static/media/loading.gif": "/factfusion/static/media/loading.d4fe355d3040e0d33036.gif",
+    "index.html": "/factfusion/index.html",
+    "main.dc4d6ff2.css.map": "/factfusion/static/css/main.dc4d6ff2.css.map",
+    "main.08c63846.js.map": "/factfusion/static/js/main.08c63846.js.map",
+    "453.b15fc67e.chunk.js.map": "/factfusion/static/js/453.b15fc67e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.08c63846.js"
+  ]
+}
